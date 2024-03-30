@@ -5,7 +5,7 @@ db_config = {
     "host": "localhost",
     "user": "root",
     "password": "",
-    "database": "web2_grp0",
+    "database": "trial",
     "port": 3306,
 }
 
